@@ -1,0 +1,1 @@
+# indian-stock-forecaster-frontend
